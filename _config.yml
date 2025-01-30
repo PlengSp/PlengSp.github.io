@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Suparwee Chaisombat"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Git pratice for CPE 393 (ML)"
+  location         : "Thailand"
   employer         : "KMUTT"
   uri              : # URL
   email            : "Suprawee.chai@kmutt.ac.th" 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
